@@ -103,13 +103,13 @@
             <mxPoint x="498" y="280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-M65HGXtSgj3IquWQeUL-10" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1170" y="1170" width="160" height="30" as="geometry" />
+        <mxCell id="-M65HGXtSgj3IquWQeUL-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1200" y="1200" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TNlYU9b12tAEpSDugZnS-22" value="AnshTechnoLabs" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="-M65HGXtSgj3IquWQeUL-10" vertex="1">
+        <mxCell id="-M65HGXtSgj3IquWQeUL-15" value="AnshTechnoLabs" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="-M65HGXtSgj3IquWQeUL-14">
           <mxGeometry x="20" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TNlYU9b12tAEpSDugZnS-23" value="" style="strokeColor=#333333;verticalLabelPosition=bottom;shadow=0;dashed=0;verticalAlign=top;strokeWidth=2;html=1;shape=mxgraph.mockup.misc.copyrightIcon;fillColor=none;" parent="-M65HGXtSgj3IquWQeUL-10" vertex="1">
+        <mxCell id="-M65HGXtSgj3IquWQeUL-16" value="" style="strokeColor=#333333;verticalLabelPosition=bottom;shadow=0;dashed=0;verticalAlign=top;strokeWidth=2;html=1;shape=mxgraph.mockup.misc.copyrightIcon;fillColor=none;" vertex="1" parent="-M65HGXtSgj3IquWQeUL-14">
           <mxGeometry y="5" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
